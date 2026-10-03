@@ -2,7 +2,7 @@
 
 **Name:** Yermek Tuzelkhan  
 **Group:** IT-2513  
-
+https://ytuzelkhan.github.io/assignment3_web/
 
 ## Part 1. Media Queries
 
